@@ -12,3 +12,8 @@ Eine komponentenbasierte Todo-Anwendung mit Vue und Typescript
 1. **Abhängigkeiten installieren**
 ```bash
 npm install
+```
+2.**Entwicklerserver starten**
+```bash
+npm run dev
+```

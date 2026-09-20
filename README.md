@@ -1,13 +1,13 @@
-#Todo App
+# Todo App
 
 Eine komponentenbasierte Todo-Anwendung mit Vue und Typescript
 
-##Voraussetzungen
+## Voraussetzungen
 
-*Node.js => Version 18 oder höher
-*npm => wird mit Node.js installiert
+* Node.js => Version 18 oder höher
+* npm => wird mit Node.js installiert
 
-##Setup & Start
+## Setup & Start
 
 1. **Abhängigkeiten installieren**
 ```bash
